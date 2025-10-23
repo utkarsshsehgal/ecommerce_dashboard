@@ -1,0 +1,1 @@
+# This Excel dashboard analyzes 1000+ e-commerce sales transactions using Pivot Tables, Charts, and Slicers. It visualizes sales, profit, and regional performance trends through interactive KPIs and dynamic filters designed to demonstrate data analytics and visualization skills.
